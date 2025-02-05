@@ -8,7 +8,7 @@ const Finvasia = () => {
       title="Redash Visualization"
       width="300%"
       height="600"
-      src="http://178.63.152.236/embed/query/18/visualization/26?api_key=WHpQxrbfiujLUVMMhSVvmHuAJNQJiD6dv9KXsfWq&" // Replace with your Redash visualization URL
+      src="http://178.63.152.236/embed/query/18/visualization/26?api_key=API KEY" // Replace with your Redash visualization URL
       frameBorder="0"
     ></iframe>
   );
